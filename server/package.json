@@ -1,0 +1,16 @@
+{
+  "name": "gigachat_api_yougile",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "qs": "^6.13.0",
+    "uuidv4": "^6.2.13"
+  }
+}

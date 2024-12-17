@@ -1,0 +1,7 @@
+{
+  "name": "GigaChat ext2",
+  "author": "Yougile",
+  "displayName": "GigaChat ext",
+  "description": "Интеграция с гига чат. Создание подзадачи",
+  "service": "/server/index.js"
+}
